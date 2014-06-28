@@ -20,7 +20,7 @@ dy {
 }
 
 .mainback {
-    background-color: #3399ff;
+    background-color: #ffffff;
 }
 
 #top, #sidebar, #bottom, .menuitem {
@@ -40,6 +40,7 @@ dy {
 }
 
 #main {
+    font-family: "Times New Roman", Times, serif;
     padding: 10px;
     margin: 0 210px;
 }
@@ -70,7 +71,7 @@ dy {
 }
 
 .menuitem {
-    background-color: #f1f1f1;
+    background-color: #c3ebff;
     border: 1px solid #d4d4d4;
     list-style-type: none;
     padding: 2px;
